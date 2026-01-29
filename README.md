@@ -1,38 +1,28 @@
 # Sistema de Gerenciamento de Livros
 
-
-
 Um sistema completo desenvolvido em Java para cadastro e gestão de livros, implementando conceitos avançados de Programação Orientada a Objetos.
-
 
 
 ## 🚀 Como Executar
 
+1. **Importe o projeto** na sua IDE (Eclipse, IntelliJ, VS Code)
 
-
-1\. \*\*Importe o projeto\*\* na sua IDE (Eclipse, IntelliJ, VS Code)
-
-3\. \*\*Execute\*\* a classe `CadastroLivrosApp.java` como aplicação Java na IDE escolhida
-
-
+2. **Execute** a classe `CadastroLivrosApp.java` como aplicação Java na IDE escolhida
 
 ## 💡 Principais Conceitos Implementados
 
 
+### **CRUD Completo**
 
-### \*\*CRUD Completo\*\*
+- **C**reate: Cadastro de novos livros
 
-\- \*\*C\*\*reate: Cadastro de novos livros
+- **R**ead: Consulta e listagem
 
-\- \*\*R\*\*ead: Consulta e listagem
+- **U**pdate: Atualização de registros
 
-\- \*\*U\*\*pdate: Atualização de registros
+- **D**elete: Remoção de livros
 
-\- \*\*D\*\*elete: Remoção de livros
-
-
-
-### 🛡️ \*\*Tratamento de Exceções\*\*
+### 🛡️ **Tratamento de Exceções**
 
 - Validação de entradas do usuário
 
@@ -42,39 +32,30 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-### \*\*Polimorfismo\*\*
+### **Polimorfismo**
 
 - Uso de classes abstratas
 
 - Métodos sobrescritos (`@Override`)
 
-\- Tratamento uniforme de objetos diferentes
+- Tratamento uniforme de objetos diferentes
 
+### **Herança**
 
+- `Livro` (classe base abstrata)
 
-\### \*\*Herança\*\*
+- `LivroFisico` (herda de Livro)
 
-\- `Livro` (classe base abstrata)
+- `LivroDigital` (herda de Livro)
 
-\- `LivroFisico` (herda de Livro)
+### **Interface**
 
-\- `LivroDigital` (herda de Livro)
+- Contrato para métodos obrigatórios
 
-
-
-### \*\*Interface\*\*
-
-\- Contrato para métodos obrigatórios
-
-\- Separação entre definição e implementação
-
-
-
+- Separação entre definição e implementação
 
 
 ## 📋 Funcionalidades
-
-
 
 ✅ Cadastro de livros físicos e digitais  
 
@@ -88,13 +69,9 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 ✅ Persistência em memória  
 
-
-
 ---
 
-
-
-\*\* Este projeto acadêmico foi desenvolvido para a terceira prova para para a disciplina de Programação Orientada ao objeto \*\*  
+** Este projeto acadêmico foi desenvolvido para a terceira prova para para a disciplina de Programação Orientada ao objeto \*\*  
 
 
 
