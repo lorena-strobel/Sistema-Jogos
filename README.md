@@ -1,4 +1,4 @@
-\# Sistema de Gerenciamento de Livros
+# Sistema de Gerenciamento de Livros
 
 
 
@@ -6,7 +6,7 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-\## 🚀 Como Executar
+## 🚀 Como Executar
 
 
 
@@ -16,11 +16,11 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-\## 💡 Principais Conceitos Implementados
+## 💡 Principais Conceitos Implementados
 
 
 
-\### \*\*CRUD Completo\*\*
+### \*\*CRUD Completo\*\*
 
 \- \*\*C\*\*reate: Cadastro de novos livros
 
@@ -32,21 +32,21 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-\### 🛡️ \*\*Tratamento de Exceções\*\*
+### 🛡️ \*\*Tratamento de Exceções\*\*
 
-\- Validação de entradas do usuário
+- Validação de entradas do usuário
 
-\- Tratamento de erros personalizados
+- Tratamento de erros personalizados
 
-\- Mensagens de erro amigáveis
+- Mensagens de erro amigáveis
 
 
 
-\### \*\*Polimorfismo\*\*
+### \*\*Polimorfismo\*\*
 
-\- Uso de classes abstratas
+- Uso de classes abstratas
 
-\- Métodos sobrescritos (`@Override`)
+- Métodos sobrescritos (`@Override`)
 
 \- Tratamento uniforme de objetos diferentes
 
@@ -62,7 +62,7 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-\### \*\*Interface\*\*
+### \*\*Interface\*\*
 
 \- Contrato para métodos obrigatórios
 
@@ -72,7 +72,7 @@ Um sistema completo desenvolvido em Java para cadastro e gestão de livros, impl
 
 
 
-\## 📋 Funcionalidades
+## 📋 Funcionalidades
 
 
 
