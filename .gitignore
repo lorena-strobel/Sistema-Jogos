@@ -1,0 +1,13 @@
+# Arquivos compilados do Java
+*.class
+bin/
+target/
+
+# Configurações do Eclipse
+.settings/
+.project
+.classpath
+
+# Outros
+.DS_Store  # Mac
+*.log
